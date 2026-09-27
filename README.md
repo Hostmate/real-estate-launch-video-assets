@@ -22,8 +22,8 @@ Las imágenes incluidas son capturas auténticas de la aplicación; no se han ge
 
 These are authentic screenshots from the real application, not AI-generated mockups. Use them as product and visual references, not as proof of current behavior. Screens 01 and 02 are older (21 June 2026); screens 03 and 04 show the live dashboard and properties list on 27 September 2026. Screenshot 05 shows the conversations inbox and includes demo names and message previews. In the Instagram DM settings image, the selected mode is shown as disabled; do not imply that automation is enabled by default.
 
-- Visit settings (older): [PUBLIC URL PENDING]
-- Instagram DM automation (older): [PUBLIC URL PENDING]
-- Dashboard (current): [PUBLIC URL PENDING]
-- Properties list (current): [PUBLIC URL PENDING]
-- Conversations inbox (demo names and message previews visible): [PUBLIC URL PENDING]
+- Visit settings (older): https://raw.githubusercontent.com/Hostmate/real-estate-launch-video-assets/main/01-visits-settings.png
+- Instagram DM automation (older): https://raw.githubusercontent.com/Hostmate/real-estate-launch-video-assets/main/02-instagram-dm-automation.png
+- Dashboard (current): https://raw.githubusercontent.com/Hostmate/real-estate-launch-video-assets/main/03-dashboard-live.png
+- Properties list (current): https://raw.githubusercontent.com/Hostmate/real-estate-launch-video-assets/main/04-properties-live.png
+- Conversations inbox (demo names and message previews visible): https://raw.githubusercontent.com/Hostmate/real-estate-launch-video-assets/main/05-clipboard-reference.png
